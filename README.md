@@ -2,7 +2,10 @@
 ### 🌱 I’m currently learning on ...
 ### Python!
 
-## 홧팅홧팅!
+## And I'm interested in ...
+### C/C++ too!🫠
+
+#### SSAFY 13th
 
 <!--
 **suzzz00/suzzz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
