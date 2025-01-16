@@ -1,6 +1,8 @@
 ## Hi there 👋
 ### 🌱 I’m currently learning on ...
-Python
+### Python!
+
+## 홧팅홧팅!
 
 <!--
 **suzzz00/suzzz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
